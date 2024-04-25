@@ -18,8 +18,6 @@ const NO_CHANGES = {
  * @returns {FunctionRunResult}
  */
 export function run(input) {
-  console.log("group", input.cart.deliveryGroups)
-
   /**
    * @type {{
   *   stateProvinceCode: string

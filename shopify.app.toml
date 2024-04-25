@@ -3,7 +3,7 @@
 client_id = "1ab73075708056bd3a1dc29d479e099e"
 name = "courier-akis-express"
 handle = "courier-akis-express"
-application_url = "https://feof-obviously-pace-relying.trycloudflare.com"
+application_url = "https://td-adjusted-coleman-compare.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_delivery_customizations,write_products"
 
 [auth]
 redirect_urls = [
-  "https://feof-obviously-pace-relying.trycloudflare.com/auth/callback",
-  "https://feof-obviously-pace-relying.trycloudflare.com/auth/shopify/callback",
-  "https://feof-obviously-pace-relying.trycloudflare.com/api/auth/callback"
+  "https://td-adjusted-coleman-compare.trycloudflare.com/auth/callback",
+  "https://td-adjusted-coleman-compare.trycloudflare.com/auth/shopify/callback",
+  "https://td-adjusted-coleman-compare.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
