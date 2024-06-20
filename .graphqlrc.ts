@@ -37,4 +37,4 @@ function getConfig() {
   return config;
 }
 
-module.exports = getConfig();
+export default getConfig();
